@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+outputs/
+.DS_Store
+Thumbs.db
+# Licensed course data: never commit raw source files.
+data/**/*.csv
+!data/README.md
